@@ -1,0 +1,89 @@
+MINING
+
+xp 1 - rocks - 2xp reward
+xp 100 - clay/bronze - 4xp reward
+xp 500 - iron - 6xp reward
+xp 1000 - coal - 6xp reward
+xp 1500 - Dorgon - 7xp reward
+xp 2500 - Lerbon - 8xp reward
+xp 4000 - Abanzon - 10xp reward
+xp 8000 Green - 15xp reward
+xp 15000 Orange - 20xp reward
+xp 25000 - blue ore - 30xp reward
+
+
+
+
+SMITHING
+
+xp 1 - Bronze - 2xp reward
+xp 1 - crossbow limbs/axe - 2xp reward
+xp 20 - xp pickaxe - 4xp reward
+xp 50 - sword - 6xp reward
+xp 90 - helmet - 8xp reward
+xp 170 - platelegs - 10xp reward
+xp 250 - platebody - 12xp reward
+
+xp 500 iron - 4xp reward
+xp 500 - crossbow limbs/axe - 4xp reward
+xp 700 - pickaxe - 8xp reward
+xp 850 - sword - 12xp reward
+xp 975 - helmet - 16xp reward
+xp 1050 - platelegs - 20xp reward
+xp 1250 - platebody - 24xp reward
+
+xp 1000 - steel - 5xp reward
+xp 1000 -crossbow limbs/axe - 5xp reward
+xp 1150 - pickaxe - 10xp reward
+xp 1350 - sword - 15xp reward
+xp 1500 - helmet - 20xp reward
+xp 1750 - platelegs - 25xp reward
+xp 2000 - platebody - 30xp reward
+
+xp 1500 - Dorgon - 6xp reward
+xp 1500 - crossbow limbs/axe - 6xp reward
+xp 1650 - pickaxe - 12xp reward
+xp 1700 - sword - 18xp reward
+xp 1780 - helmet - 24xp reward
+xp 2050 - platelegs - 30xp reward
+xp 2250 - platebody - 36xp reward
+
+xp 2500 - Lerbon - 8xp reward
+xp 2500 - crossbow limbs/axe - 8xp reward
+xp 2750 - xp pickaxe - 16xp reward
+xp 3000 - sword - 24xp reward
+xp 3250 - helmet - 32xp reward
+xp 3500 - platelegs - 40xp reward
+xp 3850 - platebody - 48xp reward
+
+xp 4000 - Abanzon - 10xp reward
+xp 4000 - crossbow limbs/axe - 10xp reward
+xp 4500 - pickaxe - 20xp reward
+xp 5000 - sword - 30xp reward
+xp 5500 - helmet - 40xp reward
+xp 6000 - platelegs - 50xp reward
+xp 7000 - platebody - 60xp reward
+
+xp 8000 - Green - 12xp reward
+xp 8000 - crossbow limbs/axe - 12xp reward
+xp 8500 - pickaxe - 24xp reward
+xp 9000 - sword - 36xp reward
+xp 10000 - helmet - 48xp reward
+xp 11000 - platelegs - 60xp reward
+xp 12000 - platebody - 72xp reward
+
+xp 13000 - Orange - 14xp reward
+xp 13000 - crossbow limbs/axe - 14xp reward
+xp 14000 - pickaxe - 28xp reward
+xp 15000 - sword - 42xp reward
+xp 16000 - helmet - 56xp reward
+xp 17000 - platelegs - 70xp reward
+xp 18500 - platebody - 84xp reward
+
+xp 20000 - Blue - 15xp reward
+xp 20000 - crossbow limbs/axe -15xp reward
+xp 21000 - pickaxe - 30xp reward
+xp 22000 - sword - 45xp reward
+xp 23000 - helmet - 60xp reward
+xp 24000 - platelegs - 75xp reward
+xp 25000 - platebody - 90xp reward

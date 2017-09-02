@@ -1,0 +1,50 @@
+Additions - 
+
+Projectiles
+Doors and switches
+Extra Item Slot
+Dicing -mine
+Tile Sprites
+NPC Multiple Drops
+NPC Spells
+
+Real Defense
+Binds -mine
+Swearing Filter
+Partychat Messages
+Mute Player
+Two Handed Weapons -mine
+Transformation Spell
+Noob message (less than half health) -mine
+Resource Multiple Drops -mine
+Npc Equipment Tool Requirement -mine
+
+Binds on Death -mine
+Healing Spell Fix
+Players Walk Through Other Players
+
+Map Animations
+Random Resoure Health -mine
+Random Spell Vitals -mine
+
+Gathering Skill System -mine
+
+Daily Reward System -mine
+Option to turn the daily reward system on or off -mine
+Picking Daily Reward from server -mine
+
+Skill Interface -mine
+
+Finishing Skill System -mine
+Multiple Paperdoll System -mine
+Multiple Shop Item Cost System -mine
+Fixed Shop Editor -mine
+
+Info Players
+Player Message Fix
+Food Giveback -mine
+Boss Npcs -mine
+Logout Timer -mine
+Laggy Trade Fix -mine
+
+38 total

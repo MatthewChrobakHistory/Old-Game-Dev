@@ -1,0 +1,28 @@
+- Woodcutting
+	- Normal, Oak, Alder, Maple, (ROWAN, ELDER)
+
+- Fletching
+	- Flax
+	- U Bows (see wood)
+	- Strung Bows (see wood)
+	- Crossbows (see smithing bars)
+
+- Crafting
+	- Pottery (Can be sold for cash)
+	- Bow Strings
+	- Crossbow Strings
+	- Dragonhide armor
+	- Cowhide armor
+
+- Fishing
+	- Fish( Shrimp, Crayfish, Herring, Trout, Salmon, Pike, Tuna, Lobster, Swordfish)
+
+- Cooking
+	- Fish(see fish)
+	- Bread, 
+
+- Potion Brewing
+	- Uplifting, Enlightenment, Glorious, Arcane, Extremity, Replenishing, Dexterity, Extremity
+
+- NPCS
+ Goblins, Cows, 

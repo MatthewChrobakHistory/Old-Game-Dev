@@ -1,0 +1,18 @@
+The following error occured at 'Form_Unload' in 'frmMain'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'Form_Unload' in 'frmMain'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'Form_Unload' in 'frmMain'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'Form_Unload' in 'frmMain'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'GameInit' in 'modGeneral'.
+Run-time error '401': Can't show non-modal form when modal form is displayed.
+
+The following error occured at 'Form_Unload' in 'frmMain'.
+Run-time error '9': Subscript out of range.
+

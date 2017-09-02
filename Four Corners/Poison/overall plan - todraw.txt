@@ -1,0 +1,10 @@
+	pickaxe, crossbow limbs)
+
+	- Dragonhide armor
+	- Cowhide armor
+
+	- Fish( Shrimp, Crayfish, Herring, Trout, Salmon, Pike, Tuna, Lobster, Swordfish)
+
+- Cooking
+	- Fish(see fish)
+	- Bread,
